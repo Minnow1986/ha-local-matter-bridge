@@ -1,0 +1,14 @@
+{
+  "domain": "local_matter_bridge",
+  "name": "Local Matter Bridge",
+  "version": "0.0.1",
+  "documentation": "https://github.com/Minnow1986/ha-local-matter-bridge",
+  "issue_tracker": "https://github.com/Minnow1986/ha-local-matter-bridge/issues",
+  "dependencies": [],
+  "codeowners": [
+    "@Minnow1986"
+  ],
+  "config_flow": true,
+  "iot_class": "local_push",
+  "requirements": []
+}

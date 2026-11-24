@@ -1,0 +1,13 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Local Matter Bridge",
+        "description": "Create a Local Matter Bridge instance.",
+        "data": {
+          "name": "Bridge Name"
+        }
+      }
+    }
+  }
+}
